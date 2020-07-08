@@ -1,0 +1,124 @@
+.container{
+    margin-bottom: 50px;
+}
+.top-bg{
+    background-color: #F0FFFF;
+}
+.icon-img{
+    width: 95px;
+    height: 60px;
+}
+.nav-link{
+    color: black;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+.button-design{
+    border: none;
+    border-radius: 25px;
+    background-color: #3CB371;
+    padding: 9px 25px;
+    margin-top: -8px;
+    color: #fff;
+}
+.banner-pic-position{
+    width: 90%;
+    height: 80%;
+    margin-bottom: 40px;
+}
+#red-color{
+    color: red;
+    
+}
+p{
+    color: gray;
+    padding: 10px;
+   
+}
+.position{
+    margin-bottom: -20px;
+}
+span{
+    color:#3CB371;
+}
+.img-resize{
+    width: 30%;
+    height: 30%;
+    margin: auto;
+    margin-top:30px ;
+}
+.card-text{
+    margin-top:-15px ;
+}
+.student-card{
+    border: none;
+    border-radius: 10px;
+    background-color: #F0FFFF ;
+}
+.student-card2{
+    border: none;
+    border-radius: 10px;
+    box-shadow: .1px .1px 15px gray;
+}
+.calendar{
+    width:10%;
+    height: 10%;
+    margin-bottom:-65px ;
+    
+}
+.text-muted {
+    margin-left: 35px;
+    margin-bottom: -16px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+
+}
+.people-icon{
+    width: 10%;
+    height: 10%;
+    float: left;
+    
+}
+.course-pic{
+   width: 300px;
+    height: 300px;
+    margin-left:22px ;
+    margin-top: 20px;
+
+}
+.course-card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: .1px .1px 15px gray;
+}
+.test-man{
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+    
+}
+.last-part{
+    background-color: #696969;
+    color: white;
+}
+.space-wrap{
+    text-align: center;
+}
+.space-wrap h6{
+    margin-top: 20px;
+}
+.pass-margin{
+    margin-top: 50px;
+}
+.last-part{
+    height: 400px;
+    width: 100%;
+}
+footer{
+    text-align: center;
+    margin-top:200px ;
+}
